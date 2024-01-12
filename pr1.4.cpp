@@ -1,3 +1,8 @@
+
+/*
+Q4. WAP to create a class which Read and Print House details along with Room details.
+*/
+
 #include<iostream>
 #include<string.h>
 
